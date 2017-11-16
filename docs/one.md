@@ -1,2 +1,6 @@
-- [docs-two](../../test-links/docs/two.md)
+- [docs-two-r](../../test-links/docs/two.md)
+- [docs-two](../../docs/two.md)
+- [docs-two](/docs/two.md)
+- [docs-two](/two.md)
+- [docs-two](./two.md)
 - [README](../../test-links/README.md)
